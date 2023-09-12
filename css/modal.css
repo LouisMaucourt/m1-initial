@@ -1,0 +1,31 @@
+/* Utilities */
+.title-big{
+	font-family: 'soleil-bold';
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.title-middle{
+	font-family: 'soleil-bold';
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.title-collection{
+	font-family: 'soleil-light';
+	font-size: 30px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	z-index: 1;
+}
+.title-namecollection{
+	font-family: 'soleil-bold';
+	font-size: 60px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	z-index: 1;
+}
+.title-invert{
+	z-index: 1;
+    mix-blend-mode: difference;
+    color: white;
+}
